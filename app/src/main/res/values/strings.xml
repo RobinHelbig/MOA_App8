@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">App8</string>
+    <string name="developed_by_robin_helbig_25_11_2020">Developed by Robin Helbig, 25.11.2020</string>
+    <string name="t1">TextView1:</string>
+    <string name="t2">TextView2:</string>
+    <string name="textview1">Klassenvariable:</string>
+    <string name="textview2">Instanzvariable:</string>
+    <string name="textview3">Globalstate:</string>
+    <string name="textview4">Viewmodel:</string>
+    <string name="textview5">SavedInstanceState:</string>
+    <string name="button_3">Button 3</string>
+    <string name="button_2">Button 2</string>
+    <string name="button_1">Button 1</string>
+</resources>
